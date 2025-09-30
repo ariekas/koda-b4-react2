@@ -3,3 +3,6 @@ Getting data caracter monty and create function search name caracter, and respon
 
 # Result
 ![alt text](./public//images/image.png)
+
+# Page detail
+![alt text](./public/images/image1.png)
